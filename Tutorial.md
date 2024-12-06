@@ -1,5 +1,5 @@
 This is a short tutorial for installing Cody AI extension to Visual Studio Code.
-## Step 1. Innstall Cody AI extension
+## Step 1. Install Cody AI extension
 
 1. Open Visual Studio Code.
 2. Click on the Extensions icon on the left side.
