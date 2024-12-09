@@ -47,7 +47,7 @@ def search_word_in_files(word, directory='.'):
     return matches
 
 # Search for the word
-word_to_find = "اطرية"
+word_to_find = "ص"
 results = search_word_in_files(word_to_find)
 
 # Print results
